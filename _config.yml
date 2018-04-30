@@ -6,6 +6,6 @@ twitter_username: TreelineScience
 github_username: TreelineScience
 description: Postdoc NAU School of Forestry
 
-#BUILD SETTINGS
+# BUILD SETTINGS
 markdown: kramdown
 theme: minima
