@@ -1,10 +1,10 @@
 # BASIC SETTINGS
 title: Treeline Science
 author: Dr. Jeremy S. Johnson
-description: Postdoc NAU School of Forestry
 email: jeremy.johnson@nau.edu
 twitter_username: TreelineScience
 github_username: TreelineScience
+description: Postdoc NAU School of Forestry
 
 #BUILD SETTINGS
 markdown: kramdown
