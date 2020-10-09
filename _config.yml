@@ -1,10 +1,11 @@
 # BASIC SETTINGS
-title: Treeline Science
+title: Institute for Forest Health
 author: Dr. Jeremy S. Johnson
 email: jeremy.johnson@prescott.edu
 twitter_username: TreelineScience
 github_username: TreelineScience
-description: Assistant Professor Dept. of Environmental Studies, Prescott College
+description: Founding Executive Director Institute for Forest Health
+Assistant Professor Dept. of Environmental Studies, Prescott College
 
 # BUILD SETTINGS
 markdown: kramdown
