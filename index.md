@@ -5,4 +5,4 @@ title: Institute for Forest Health
 
 ## Johnson Research Lab
 
-![welcome image here](NZ_Treeline.jpg) insp1_09052019.jpg
+![welcome image here](NZ_Treeline.jpg)
